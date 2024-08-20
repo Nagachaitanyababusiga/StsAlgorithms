@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Class3ChineseRemainder {
+public class Class4ChineseRemainder {
 
     public static int findMinX(int num[],int rem[],int k){
         int x=1;
@@ -16,6 +16,6 @@ public class Class3ChineseRemainder {
         }
     }
     public static void main(String[] args) {
-        System.out.println(Class3ChineseRemainder.findMinX(new int[]{3,4,5},new int[]{2,3,1},3));
+        System.out.println(Class4ChineseRemainder.findMinX(new int[]{3,4,5},new int[]{2,3,1},3));
     }
 }
